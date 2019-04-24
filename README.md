@@ -1,4 +1,8 @@
 # hello-world
 to learn the way to use GitHub
 
-Adding one likne to readme-edits branch.
+Adding one line to readme-edits branch.
+
+New line.
+
+
